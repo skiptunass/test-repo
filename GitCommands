@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Git Commands</title>
+</head>
+<body>
+<ul>
+  <li>git <ENTER> gives list of all commands</li>
+  <li>git clone <link> to clone a git repository</li>
+  <li>git status </li>
+  <li>git add filename</li>
+  <li>git commit -m "comment"</li>
+  <li>git push </li>
+</ul> 
+</body>
+</html>
+
+
