@@ -1,0 +1,6 @@
+setx GPU_FORCE_64BIT_PTR 0
+setx GPU_MAX_HEAP_SIZE 100
+setx GPU_USE_SYNC_OBJECTS 1
+setx GPU_MAX_ALLOC_PERCENT 100
+setx GPU_SINGLE_ALLOC_PERCENT 100
+ethminer.exe --farm-recheck 200 -G -S us1.ethermine.org:4444 -FS us1.ethermine.org:14444 -O 0x3cE3A0EAA4b528B148d073ad7Ea6d4C7941a08B7.Skiptunas
